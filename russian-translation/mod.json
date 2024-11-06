@@ -1,7 +1,7 @@
 {	
 	"name" : "Russian translation",
 	"description" : "Russian translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.3.0",
+	"version" : "1.3.1",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/mega-pack-rus",
 	"modType" : "Translation",
@@ -14,7 +14,8 @@
 	{ 
 		"1.0.0"   : [ "Initial release" ],
 		"1.2.0"   : [ "Update" ],
-		"1.3.0"   : [ "Rebuild from official russian translation (GOG)" ]
+		"1.3.0"   : [ "Rebuild from official russian translation (GOG)" ],
+		"1.3.1"   : [ "Fonts updated" ]
 	},
 	"russian" : {
 		"name" : "Русский перевод",
