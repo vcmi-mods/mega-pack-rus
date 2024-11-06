@@ -15,7 +15,7 @@
 		"1.0.0"   : [ "Initial release" ],
 		"1.2.0"   : [ "Update" ],
 		"1.3.0"   : [ "Rebuild from official russian translation (GOG)" ],
-		"1.3.1"   : [ "Fonts updated" ]
+		"1.3.1"   : [ "New fonts" ]
 	},
 	"russian" : {
 		"name" : "Русский перевод",
